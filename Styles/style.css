@@ -1,0 +1,17 @@
+body{
+    background-color: #FEFAE0;
+}
+
+.mainHeader{
+    background-color: #CCD5AE;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainHeader header{
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
